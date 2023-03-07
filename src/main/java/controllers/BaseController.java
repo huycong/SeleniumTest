@@ -7,4 +7,9 @@ import org.springframework.stereotype.Controller;
  */
 @Controller
 public class BaseController {
+  int a = 1;
+  if (a==1)
+  {
+    //todo sonething
+  }
 }
